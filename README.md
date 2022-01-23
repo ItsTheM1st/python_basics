@@ -7,4 +7,4 @@ This is where you will find tutorials/code examples/more... about **Python**, fo
 * Creator's note : Please check `Introduction` file first!
 
 
-*Thank you all so much <3*
+*Thank you all so much for checking in <3*
